@@ -1,0 +1,10 @@
+文件说明：
+
+
+class_design_math_1.m-----灰度图像处理代码
+class_design_math_3.m-----彩色图像处理代码
+image.m----算法辅助理解代码
+image_1.png----灰度图像
+image_3.jpg----彩色图像
+
+
